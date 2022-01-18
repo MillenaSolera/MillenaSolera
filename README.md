@@ -6,4 +6,4 @@
 <br>
 :computer: My main tools: Python, HTML and CSS.
 <br>
-:round_pushpin: You can see my personal website with my projects here: [millenasolera.github.io](https://millenasolera.github.io) 
+:mag_right: You can see my personal website with my projects here: [millenasolera.github.io](https://millenasolera.github.io) 
