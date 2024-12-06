@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! Welcome to my GitHub! 👋 </h1>
 
-:information_desk_person: My name is Millena Soléra, i'm 19.
+:information_desk_person: My name is Millena Soléra, i'm 21.
 <br>
 :mortar_board:I am an information systems student at Anhembi Morumbi University
 <br>
